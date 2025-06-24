@@ -1,10 +1,5 @@
 import streamlit as st
-import openai
 import google.generativeai as genai
-import os
-# from dotenv import load_dotenv
-
-# load_dotenv()
 
 # 関数定義箇所
 
